@@ -1,0 +1,9 @@
+lastUpgrade=00942
+proj.pluginVersion=0.9.42
+proj.AppId=441952256643
+and.BundleId=com.LevelMindGames.TwoBirdsWithOneStone
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e441952256643%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.LevelMindGames.TwoBirdsWithOneStone%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+a+score+of+20.+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_a_score_of_20.%22+translatable%3d%22false%22%3eCgkIg4Whs-4MEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+a+score+of+40.+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_a_score_of_40.%22+translatable%3d%22false%22%3eCgkIg4Whs-4MEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+a+score+of+60.+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_a_score_of_60.%22+translatable%3d%22false%22%3eCgkIg4Whs-4MEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+a+score+of+80.+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_a_score_of_80.%22+translatable%3d%22false%22%3eCgkIg4Whs-4MEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+a+score+of+100.+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_a_score_of_100.%22+translatable%3d%22false%22%3eCgkIg4Whs-4MEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Score+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_score%22+translatable%3d%22false%22%3eCgkIg4Whs-4MEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=441952256643-egvoh1p8183eer4bne1qsaho5ibv7i9c.apps.googleusercontent.com
+android.SetupDone=true
